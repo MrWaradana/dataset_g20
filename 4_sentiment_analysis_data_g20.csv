@@ -1,4 +1,4 @@
-date,username,tweet_en,Subjectivity,Polarity,TextBlob
+date,username,tweet_en,Subjectivity,Polarity,Analysis
 2022-10-05 12:21:14,jeslintuse2,East Nusa Tenggara Government Ensures that all hotels in Bali are ready to welcome the G20 G20Indonesia RecovertherrecoversTronger G20Indonesia2022 GroupoftwentyIndonesia,0.7,0.5,Positive
 2022-10-05 12:17:55,usharanimuni,The government makes sure the hotel in Bali is ready to welcome the Bangka Belitung G20Indonesia RecovertherrecoversTronger G20Indonesia2022 GroupoftwentyIndonesia Islands Summit,0.762962962962963,0.5,Positive
 2022-10-05 12:13:03,diaharmayanti1,The government makes sure the hotel in Bali is ready to welcome the G20 G20Indonesia RecovertherrecoversTronger G20Indonesia2022 GroupoftwentyIndonesia,0.762962962962963,0.5,Positive
