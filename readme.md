@@ -16,4 +16,4 @@
 5. Proses data _teks_ yang telah _ditranslate ke bahasa inggris_ menjadi kata yang baku dan menghilangkan kata slang (ikuti alur yang ada di [3.4_text_processing_translated_data_g20](/3.4_text_processing_translated_data_g20.ipynb))
 6. Lakukan sentimen analisis dengan library _TextBlob_ [4_sentiment_analysis_data_g20](/4_sentiment_analysis_data_g20.ipynb))
 7. Lakukan training dan testing model untuk mengetahui akurasi dari model yang digunakan menggunakan library _sklearn_ [4_sentiment_analysis_data_g20](/4_sentiment_analysis_data_g20.ipynb))
-8. Hasil di dokumentasikan untuk melihat analisis sentimen
+8. Hasil didokumentasikan untuk melihat analisis sentimen
