@@ -11,7 +11,7 @@
 1. Crawling data twitter dengan menggunakan library twint (ikuti alur yang ada di [1_crawling_data_g20](/1_crawling_data_g20.ipynb))
 2. Cleansing data raw dengan menghilangkan karakter yang diinginkan (ikuti alur yang ada di [2_cleansing_data_g20](/2_cleansing_data_g20.ipynb))
 3. Proses data _teks_ menjadi kata yang baku dan menghilangkan kata slang (ikuti alur yang ada di [3.0_text_processing_data_g20](/3.0_text_processing_data_g20.ipynb))
-4. Translate hasil proses data ke Bahasa Inggris
+4. Translate hasil proses data ke Bahasa Inggris dengan google sheets
    > TextBlob tidak bisa membuat sentimen dengan bahasa Indonesia
 5. Proses data _teks_ yang telah _ditranslate ke bahasa inggris_ menjadi kata yang baku dan menghilangkan kata slang (ikuti alur yang ada di [3.4_text_processing_translated_data_g20](/3.4_text_processing_translated_data_g20.ipynb))
 6. Lakukan sentimen analisis dengan library _TextBlob_ [4_sentiment_analysis_data_g20](/4_sentiment_analysis_data_g20.ipynb))
