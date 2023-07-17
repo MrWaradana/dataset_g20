@@ -1,5 +1,7 @@
 # ANALISIS SENTIMEN MENGENAI KONFERENSI TINGKAT TINGGI G20 BALI 2022 DI TWITTER
 
+## [Link to the Paper](https://docs.google.com/document/d/e/2PACX-1vTUcofgl_uz7kPLJ_dOiFf85RGIRhm_cRlcCbHQZapcEy-j_7FwAHAtWhQq1yzBxMBnDCLEuhsKUfQX/pub)
+
 ## Summary
 
 > Indonesia pada tahun ini berkesempatan untuk memimpin presidensi Gerakan 20 negara dengan mengusung tema semangat bersama pulih bersama. Untuk mensukseskan acara ini, pemerintah dan masyarakat bekerjasama untuk mempersiapkan berbagai hal dalam mendukung Indonesia sebagai tuan rumah hingga akhir november mendatang. Tujuan dari penelitian ini untuk menganalisis respon masyarakat terhadap kepemimpinan Indonesia dalam memimpin G20 ditengah gejolaknya bencana ekonomi dan perang. Dalam analisis ini kami mendapatkan data dari twitter sebanyak 1066 untuk selanjutnya mengelompokkan masyarakat yang mendukung sebanyak 47.6%, netral sebanyak 47.1% , dan tidak mendukung sebanyak 5.3% dengan tingkat akurasi mencapai 90%. Dengan ini dapat disimpulkan bahwa masyarakat cenderung mendukung terselenggaranya berbagai acara KTT G20.
